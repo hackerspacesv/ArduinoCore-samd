@@ -24,6 +24,7 @@
  * USB device definitions
  */
 #define STRING_PRODUCT "HSSV SAMR21-Mote"
+#define STRING_MANUFACTURER "Hackerspace San Salvador"
 #define USB_VID_HIGH   0x12
 #define USB_VID_LOW    0x09
 #define USB_PID_HIGH   0x05
